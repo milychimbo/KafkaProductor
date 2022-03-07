@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\chimb\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\chimb\\.nuget\\packages"
+    ]
+  }
+}
